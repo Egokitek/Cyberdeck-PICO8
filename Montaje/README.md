@@ -10,7 +10,7 @@
 
 Pendiente de completar
 
-![Montaje](montaje.jpg)
+![Montaje](Montaje.jpg)
 
 
 
